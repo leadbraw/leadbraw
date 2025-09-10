@@ -1,9 +1,5 @@
 # Noah Dangerfield
-Senior studying Computer Science at the University of Washington, Tacoma. Currently seeking a summer 2025 internship and/or new grad full stack role. I'm a quick study with any unfamiliar technology and am passionate about writing clean, maintainable code to build things I can be proud of.
-
-### Currently Learning
-- React
-- C#
+Recent computer science graduate. Full Stack Developer Intern @ Cribbi. Currently seeking new grad full stack development roles. I'm a quick study with any unfamiliar technology and am passionate about writing clean, maintainable code to build things I can be proud of.
 
 ### Languages, Tools, Frameworks
 <div>
